@@ -403,6 +403,7 @@ set iskeyword+=.
 set termencoding=utf-8
 set encoding=utf8
 set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
+language messages zh_CN.utf-8  "解决consle输出乱码
 
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 
